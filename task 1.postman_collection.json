@@ -1,0 +1,35 @@
+{
+	"info": {
+		"_postman_id": "54619df5-6f9e-4f6c-8ac0-9231ceea13bf",
+		"name": "task 1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "50052821",
+		"_collection_link": "https://suriya63k-8035105.postman.co/workspace/K-SURIYA's-Workspace~b2127b83-0ad4-4cee-8db7-6a5495029235/collection/50052821-54619df5-6f9e-4f6c-8ac0-9231ceea13bf?action=share&source=collection_link&creator=50052821"
+	},
+	"item": [
+		{
+			"name": "get input",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "update",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "New Request",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
